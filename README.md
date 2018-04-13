@@ -5,7 +5,7 @@
 
 ---
 
-*Assignment 4 works for 16 digit multiplicand and multipliers with 64 bit result.*
+*Assignment 4 works for 16 digit multiplicand and multiplier with 64 bit result.*
 
 *Commands for Assignment 13 in DOS-BOX*
 ```console
