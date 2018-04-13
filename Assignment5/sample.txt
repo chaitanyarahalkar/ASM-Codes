@@ -1,3 +1,0 @@
-This is a test message.
-For assignment 5.
-Written in x86 Assembly.
