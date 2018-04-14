@@ -77,7 +77,6 @@ fac resq 1
 
 four resq 1
 two resq 1
-one resq 1
 
 root1 resq 4
 root2 resq 4
@@ -167,10 +166,7 @@ jmp exit
 
 img:
 
-mov qword[one],1
-; img sqrt(b^2-4ac)
-fild qword[one]
-fmul qword[disc]
+fld qword[disc]
 fsqrt
 fstp qword[disc]
 
