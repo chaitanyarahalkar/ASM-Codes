@@ -1,4 +1,3 @@
-; Bubble sort
 %macro print 2
 mov rax,1
 mov rdi,1
